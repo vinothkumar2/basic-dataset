@@ -1,0 +1,151 @@
+POS,Player,Ov,Runs,Wkts,Dots,Econ,SR,Against,Venue,Match Date
+1,Lungi Ngidi,4,10,4,16,2.5,6,PBKS,Maharashtra Cricket Association's International Stadium,20 May 2018
+2,Rashid Khan,4,11,2,14,2.75,12,CSK,Wankhede Stadium,22 May 2018
+3,Rashid Khan,4,11,2,16,2.75,12,MI,Wankhede Stadium,24 April 2018
+4,Yuzvendra Chahal,2,6,1,6,3,12,PBKS,Holkar Cricket Stadium,14 May 2018
+5,Sandeep Sharma,3,9,1,14,3,18,MI,Wankhede Stadium,24 April 2018
+6,Krishnappa Gowtham,2,6,1,6,3,12,RCB,Sawai Mansingh Stadium,19 May 2018
+7,Ravindra Jadeja,4,13,1,14,3.25,24,SRH,Wankhede Stadium,22 May 2018
+8,Rashid Khan,4,13,1,18,3.25,24,MI,Rajiv Gandhi Intl. Cricket Stadium,12 April 2018
+9,Ankit Rajpoot,4,14,5,17,3.5,4.8,SRH,Rajiv Gandhi Intl. Cricket Stadium,26 April 2018
+10,Ish Sodhi,4,14,1,12,3.5,24,PBKS,Sawai Mansingh Stadium,08 May 2018
+11,Ben Stokes,4,15,3,14,3.75,8,KKR,Eden Gardens,15 May 2018
+12,Deepak Chahar,4,15,3,17,3.75,8,SRH,Rajiv Gandhi Intl. Cricket Stadium,22 April 2018
+13,Jasprit Bumrah,4,15,3,11,3.75,8,PBKS,Wankhede Stadium,16 May 2018
+14,Sandeep Sharma,4,15,1,14,3.75,24,RR,Sawai Mansingh Stadium,29 April 2018
+15,Ish Sodhi,4,15,0,11,3.75,0,KKR,Eden Gardens,23 May 2018
+16,Krunal Pandya,3.1,12,2,12,3.78,9.5,KKR,Eden Gardens,09 May 2018
+17,Shreyas Gopal,4,16,4,10,4,6,RCB,Sawai Mansingh Stadium,19 May 2018
+18,Andrew Tye,4,16,4,15,4,6,MI,Wankhede Stadium,16 May 2018
+19,Krishnappa Gowtham,3,12,2,10,4,9,PBKS,Sawai Mansingh Stadium,08 May 2018
+20,Jofra Archer,4,16,2,14,4,12,MI,Wankhede Stadium,13 May 2018
+21,Colin de Grandhomme,2,8,1,6,4,12,PBKS,Holkar Cricket Stadium,14 May 2018
+22,Colin de Grandhomme,4,16,1,11,4,24,CSK,Maharashtra Cricket Association's International Stadium,05 May 2018
+23,Deepak Chahar,4,16,1,14,4,24,SRH,Maharashtra Cricket Association's International Stadium,13 May 2018
+24,Liam Plunkett,4,17,3,12,4.25,8,PBKS,Arun Jaitley Stadium,23 April 2018
+25,Sunil Narine,4,17,2,11,4.25,12,SRH,Eden Gardens,14 April 2018
+26,Sandeep Sharma,4,17,2,13,4.25,12,PBKS,Rajiv Gandhi Intl. Cricket Stadium,26 April 2018
+27,Siddarth Kaul,4,17,2,11,4.25,12,RR,Rajiv Gandhi Intl. Cricket Stadium,09 April 2018
+28,Mujeeb Ur Rahman,4,17,1,11,4.25,24,SRH,Rajiv Gandhi Intl. Cricket Stadium,26 April 2018
+29,Sunil Narine,4,17,1,9,4.25,24,CSK,Chidambaram,10 April 2018
+30,Bhuvneshwar Kumar,4,17,0,16,4.25,0,CSK,Wankhede Stadium,27 May 2018
+31,Andre Russell,3,13,2,8,4.33,9,RR,Eden Gardens,15 May 2018
+32,Shane Watson,3,13,1,9,4.33,18,RR,Maharashtra Cricket Association's International Stadium,20 April 2018
+33,Bhuvneshwar Kumar,3.1,14,1,12,4.42,19,CSK,Wankhede Stadium,22 May 2018
+34,Ravindra Jadeja,4,18,3,8,4.5,8,RCB,Maharashtra Cricket Association's International Stadium,05 May 2018
+35,Krishnappa Gowtham,4,18,2,10,4.5,12,SRH,Sawai Mansingh Stadium,29 April 2018
+36,Kuldeep Yadav,4,18,1,13,4.5,24,RR,Eden Gardens,23 May 2018
+37,Piyush Chawla,4,18,1,10,4.5,24,RR,Sawai Mansingh Stadium,18 April 2018
+38,D'Arcy Short,2,9,0,7,4.5,0,SRH,Rajiv Gandhi Intl. Cricket Stadium,09 April 2018
+39,Lungi Ngidi,3,14,2,10,4.66,9,DC,Arun Jaitley Stadium,18 May 2018
+40,Deepak Chahar,3,14,1,12,4.66,18,MI,Wankhede Stadium,07 April 2018
+41,Rashid Khan,4,19,3,12,4.75,8,KKR,Eden Gardens,25 May 2018
+42,Rashid Khan,4,19,3,11,4.75,8,PBKS,Rajiv Gandhi Intl. Cricket Stadium,26 April 2018
+43,Amit Mishra,4,19,3,13,4.75,8,MI,Arun Jaitley Stadium,20 May 2018
+44,Hardik Pandya,4,19,2,13,4.75,12,KKR,Wankhede Stadium,06 May 2018
+45,Amit Mishra,4,19,2,9,4.75,12,SRH,Rajiv Gandhi Intl. Cricket Stadium,05 May 2018
+46,Ankit Rajpoot,4,19,2,18,4.75,12,CSK,Maharashtra Cricket Association's International Stadium,20 May 2018
+47,Ravindra Jadeja,4,19,1,10,4.75,24,DC,Arun Jaitley Stadium,18 May 2018
+48,Jasprit Bumrah,4,19,1,11,4.75,24,PBKS,Holkar Cricket Stadium,04 May 2018
+49,Ravichandran Ashwin,4,19,0,8,4.75,0,DC,Arun Jaitley Stadium,23 April 2018
+50,Mustafizur Rahman,3.4,18,1,12,4.9,22,SRH,Wankhede Stadium,24 April 2018
+51,Kuldeep Yadav,4,20,4,8,5,6,RR,Eden Gardens,15 May 2018
+52,Shreyas Gopal,4,20,3,12,5,8,CSK,Maharashtra Cricket Association's International Stadium,20 April 2018
+53,Umesh Yadav,3,15,2,13,5,9,CSK,Maharashtra Cricket Association's International Stadium,05 May 2018
+54,Krishnappa Gowtham,3,15,2,10,5,9,KKR,Eden Gardens,23 May 2018
+55,Mayank Markande,3,15,2,10,5,9,SRH,Wankhede Stadium,24 April 2018
+56,Trent Boult,4,20,2,12,5,12,CSK,Arun Jaitley Stadium,18 May 2018
+57,Sunil Narine,4,20,2,10,5,12,CSK,Eden Gardens,03 May 2018
+58,Amit Mishra,4,20,2,12,5,12,CSK,Arun Jaitley Stadium,18 May 2018
+59,Sandeep Sharma,4,20,1,10,5,24,RCB,Rajiv Gandhi Intl. Cricket Stadium,07 May 2018
+60,Kuldeep Yadav,4,20,1,11,5,24,RCB,M. Chinnaswamy Stadium,29 April 2018
+61,Lungi Ngidi,4,20,1,10,5,24,SRH,Wankhede Stadium,22 May 2018
+62,Piyush Chawla,4,20,1,10,5,24,SRH,Eden Gardens,14 April 2018
+63,Andre Russell,2,10,0,2,5,0,RCB,Eden Gardens,08 April 2018
+64,Krunal Pandya,2,10,0,3,5,0,SRH,Rajiv Gandhi Intl. Cricket Stadium,12 April 2018
+65,Harbhajan Singh,3.5,20,1,7,5.21,23,MI,Maharashtra Cricket Association's International Stadium,28 April 2018
+66,Billy Stanlake,4,21,2,15,5.25,12,KKR,Eden Gardens,14 April 2018
+67,Shakib Al Hasan,4,21,2,11,5.25,12,KKR,Eden Gardens,14 April 2018
+68,Mujeeb Ur Rahman,4,21,2,8,5.25,12,RR,Sawai Mansingh Stadium,08 May 2018
+69,Sandeep Lamichhane,4,21,1,10,5.25,24,CSK,Arun Jaitley Stadium,18 May 2018
+70,Ish Sodhi,4,21,1,11,5.25,24,KKR,Eden Gardens,15 May 2018
+71,Axar Patel,4,21,1,7,5.25,24,RR,Holkar Cricket Stadium,06 May 2018
+72,Hardik Pandya,3,16,2,11,5.33,9,KKR,Eden Gardens,09 May 2018
+73,Shakib Al Hasan,3,16,1,8,5.33,18,MI,Wankhede Stadium,24 April 2018
+74,Shakib Al Hasan,3,16,1,6,5.33,18,KKR,Eden Gardens,25 May 2018
+75,Jofra Archer,4,22,3,13,5.5,8,MI,Sawai Mansingh Stadium,22 April 2018
+76,Harbhajan Singh,4,22,2,11,5.5,12,RCB,Maharashtra Cricket Association's International Stadium,05 May 2018
+77,Shreyas Gopal,4,22,2,11,5.5,12,RCB,M. Chinnaswamy Stadium,15 April 2018
+78,Washington Sundar,4,22,2,8,5.5,12,PBKS,M. Chinnaswamy Stadium,13 April 2018
+79,Yuzvendra Chahal,4,22,2,12,5.5,12,RR,M. Chinnaswamy Stadium,15 April 2018
+80,Nitish Rana,2,11,2,4,5.5,6,RR,Sawai Mansingh Stadium,18 April 2018
+81,Shardul Thakur,4,22,1,14,5.5,24,RR,Sawai Mansingh Stadium,11 May 2018
+82,Krunal Pandya,2,11,1,5,5.5,12,DC,Arun Jaitley Stadium,20 May 2018
+83,Harbhajan Singh,2,11,1,5,5.5,12,KKR,Chidambaram,10 April 2018
+84,Jasprit Bumrah,4,22,1,9,5.5,24,RCB,M. Chinnaswamy Stadium,01 May 2018
+85,Barinder Sran,4,22,0,11,5.5,0,SRH,IS Bindra Stadium,19 April 2018
+86,Mohammed Siraj,3,17,1,10,5.66,18,PBKS,Holkar Cricket Stadium,14 May 2018
+87,Murugan Ashwin,3,17,1,12,5.66,18,CSK,Maharashtra Cricket Association's International Stadium,05 May 2018
+88,Jasprit Bumrah,3,17,1,10,5.66,18,KKR,Eden Gardens,09 May 2018
+89,Dan Christian,3,17,1,8,5.66,18,PBKS,Arun Jaitley Stadium,23 April 2018
+90,Mayank Markande,4,23,4,11,5.75,6,SRH,Rajiv Gandhi Intl. Cricket Stadium,12 April 2018
+91,Umesh Yadav,4,23,3,13,5.75,8,PBKS,M. Chinnaswamy Stadium,13 April 2018
+92,Mayank Markande,4,23,3,11,5.75,8,CSK,Wankhede Stadium,07 April 2018
+93,Umesh Yadav,4,23,3,15,5.75,8,PBKS,Holkar Cricket Stadium,14 May 2018
+94,Siddarth Kaul,4,23,3,13,5.75,8,MI,Wankhede Stadium,24 April 2018
+95,Shakib Al Hasan,4,23,2,9,5.75,12,RR,Rajiv Gandhi Intl. Cricket Stadium,09 April 2018
+96,Ankit Rajpoot,4,23,2,15,5.75,12,DC,Arun Jaitley Stadium,23 April 2018
+97,Krishnappa Gowtham,4,23,2,12,5.75,12,KKR,Sawai Mansingh Stadium,18 April 2018
+98,Amit Mishra,4,23,2,10,5.75,12,KKR,Arun Jaitley Stadium,27 April 2018
+99,Andrew Tye,4,23,2,10,5.75,12,SRH,IS Bindra Stadium,19 April 2018
+100,Rashid Khan,4,23,2,9,5.75,12,DC,Rajiv Gandhi Intl. Cricket Stadium,05 May 2018
+101,Siddarth Kaul,4,23,2,8,5.75,12,RR,Sawai Mansingh Stadium,29 April 2018
+102,Kuldeep Yadav,4,23,1,8,5.75,24,SRH,Eden Gardens,14 April 2018
+103,Kuldeep Yadav,4,23,1,9,5.75,24,RR,Sawai Mansingh Stadium,18 April 2018
+104,Ravichandran Ashwin,4,23,1,4,5.75,24,DC,IS Bindra Stadium,08 April 2018
+105,Rashid Khan,4,23,1,11,5.75,24,RR,Rajiv Gandhi Intl. Cricket Stadium,09 April 2018
+106,Umesh Yadav,4,23,1,12,5.75,24,CSK,M. Chinnaswamy Stadium,25 April 2018
+107,Harshal Patel,4,23,1,10,5.75,24,CSK,Arun Jaitley Stadium,18 May 2018
+108,Sunil Narine,4,23,1,10,5.75,24,SRH,Rajiv Gandhi Intl. Cricket Stadium,19 May 2018
+109,Yuzvendra Chahal,4,23,0,14,5.75,0,MI,M. Chinnaswamy Stadium,01 May 2018
+110,Ravichandran Ashwin,4,23,0,7,5.75,0,MI,Holkar Cricket Stadium,04 May 2018
+111,Sunil Narine,3,18,3,6,6,6,DC,Eden Gardens,16 April 2018
+112,Mustafizur Rahman,4,24,3,10,6,8,SRH,Rajiv Gandhi Intl. Cricket Stadium,12 April 2018
+113,Rahul Tewatia,3,18,3,10,6,6,KKR,Eden Gardens,16 April 2018
+114,Hardik Pandya,4,24,3,12,6,8,CSK,Wankhede Stadium,07 April 2018
+115,Shakib Al Hasan,3,18,2,7,6,9,PBKS,Rajiv Gandhi Intl. Cricket Stadium,26 April 2018
+116,Ravichandran Ashwin,3,18,2,5,6,9,MI,Wankhede Stadium,16 May 2018
+117,Piyush Chawla,4,24,2,7,6,12,RR,Eden Gardens,23 May 2018
+118,Andrew Tye,4,24,2,7,6,12,RR,Holkar Cricket Stadium,06 May 2018
+119,Shardul Thakur,3,18,2,9,6,9,RR,Maharashtra Cricket Association's International Stadium,20 April 2018
+120,Basil Thampi,2.2,14,2,6,6,7,PBKS,Rajiv Gandhi Intl. Cricket Stadium,26 April 2018
+121,Andre Russell,2,12,2,5,6,6,MI,Wankhede Stadium,06 May 2018
+122,Amit Mishra,2,12,1,5,6,12,RR,Arun Jaitley Stadium,02 May 2018
+123,Sunil Narine,4,24,1,7,6,24,SRH,Eden Gardens,25 May 2018
+124,Dan Christian,2,12,1,6,6,12,PBKS,IS Bindra Stadium,08 April 2018
+125,Lungi Ngidi,4,24,1,15,6,24,RCB,Maharashtra Cricket Association's International Stadium,05 May 2018
+126,Krishnappa Gowtham,3,18,1,11,6,18,PBKS,Holkar Cricket Stadium,06 May 2018
+127,Rahul Tewatia,4,24,1,9,6,24,PBKS,IS Bindra Stadium,08 April 2018
+128,David Willey,4,24,1,12,6,24,RCB,Maharashtra Cricket Association's International Stadium,05 May 2018
+129,Ben Cutting,2,12,1,6,6,12,KKR,Eden Gardens,09 May 2018
+130,Moeen Ali,2.1,13,1,5,6,13,PBKS,Holkar Cricket Stadium,14 May 2018
+131,Krunal Pandya,4,24,0,11,6,0,RCB,M. Chinnaswamy Stadium,01 May 2018
+132,Rashid Khan,4,24,0,9,6,0,CSK,Wankhede Stadium,27 May 2018
+133,Liam Plunkett,4,24,0,9,6,0,KKR,Arun Jaitley Stadium,27 April 2018
+134,Krunal Pandya,4,24,0,8,6,0,RR,Wankhede Stadium,13 May 2018
+135,Mujeeb Ur Rahman,3,18,0,5,6,0,CSK,IS Bindra Stadium,15 April 2018
+136,Sandeep Sharma,4,24,0,11,6,0,DC,Arun Jaitley Stadium,10 May 2018
+137,Shreyas Gopal,3,18,0,6,6,0,SRH,Rajiv Gandhi Intl. Cricket Stadium,09 April 2018
+138,Mohammed Siraj,4,25,3,12,6.25,8,SRH,Rajiv Gandhi Intl. Cricket Stadium,07 May 2018
+139,Umesh Yadav,4,25,3,12,6.25,8,RR,Sawai Mansingh Stadium,19 May 2018
+140,Sandeep Sharma,4,25,2,13,6.25,12,MI,Rajiv Gandhi Intl. Cricket Stadium,12 April 2018
+141,Dwayne Bravo,4,25,2,9,6.25,12,SRH,Wankhede Stadium,22 May 2018
+142,Mujeeb Ur Rahman,4,25,2,12,6.25,12,DC,Arun Jaitley Stadium,23 April 2018
+143,Andrew Tye,4,25,2,11,6.25,12,DC,Arun Jaitley Stadium,23 April 2018
+144,Tim Southee,4,25,2,14,6.25,12,MI,M. Chinnaswamy Stadium,01 May 2018
+145,Mustafizur Rahman,4,25,1,11,6.25,24,DC,Wankhede Stadium,14 April 2018
+146,Sandeep Lamichhane,4,25,1,10,6.25,24,RCB,Arun Jaitley Stadium,12 May 2018
+147,Mayank Markande,4,25,1,9,6.25,24,RCB,Wankhede Stadium,17 April 2018
+148,Axar Patel,4,25,1,10,6.25,24,RCB,M. Chinnaswamy Stadium,13 April 2018
+149,Siddarth Kaul,4,25,1,6,6.25,24,RCB,Rajiv Gandhi Intl. Cricket Stadium,07 May 2018
+150,Bhuvneshwar Kumar,4,25,1,10,6.25,24,PBKS,IS Bindra Stadium,19 April 2018

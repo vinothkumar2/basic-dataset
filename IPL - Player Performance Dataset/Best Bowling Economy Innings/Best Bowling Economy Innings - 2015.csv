@@ -1,0 +1,151 @@
+POS,Player,Ov,Runs,Wkts,Dots,Econ,SR,Against,Venue,Match Date
+1,Zaheer Khan,4,9,2,18,2.25,12,CSK,Shaheed Veer Narayan Singh International Cricket Stadium,12 May 2015
+2,Ashish Nehra,4,10,4,14,2.5,6,RCB,M. Chinnaswamy Stadium,22 April 2015
+3,Ravichandran Ashwin,2,5,2,8,2.5,6,KKR,Chidambaram,28 April 2015
+4,Ravindra Jadeja,4,11,4,11,2.75,6,RR,Chidambaram,10 May 2015
+5,Harbhajan Singh,4,11,2,15,2.75,12,DC,Wankhede Stadium,05 May 2015
+6,Dhawal Kulkarni,3,9,2,13,3,9,SRH,ACA-VDCA Stadium,16 April 2015
+7,Sandeep Sharma,4,12,1,14,3,24,MI,Wankhede Stadium,12 April 2015
+8,Ravichandran Ashwin,4,13,1,16,3.25,24,RCB,JSCA Stadium,22 May 2015
+9,Mohit Sharma,3,10,1,12,3.33,18,PBKS,Chidambaram,25 April 2015
+10,Sandeep Sharma,3,10,0,12,3.33,0,DC,Arun Jaitley Stadium,01 May 2015
+11,Ravichandran Ashwin,4,14,2,14,3.5,12,PBKS,Chidambaram,25 April 2015
+12,Ravichandran Ashwin,4,14,1,14,3.5,24,PBKS,IS Bindra Stadium,16 May 2015
+13,Domnic Joseph,2,7,1,8,3.5,12,MI,Arun Jaitley Stadium,23 April 2015
+14,Ravindra Jadeja,3,11,0,10,3.66,0,KKR,Chidambaram,28 April 2015
+15,Mitchell Starc,4,15,4,14,3.75,6,PBKS,M. Chinnaswamy Stadium,06 May 2015
+16,JP Duminy,4,15,1,10,3.75,24,PBKS,Arun Jaitley Stadium,01 May 2015
+17,Moises Henriques,4,16,3,10,4,8,PBKS,Rajiv Gandhi Intl. Cricket Stadium,11 May 2015
+18,Mitchell McClenaghan,4,16,3,13,4,8,SRH,Rajiv Gandhi Intl. Cricket Stadium,17 May 2015
+19,Ashish Nehra,4,16,2,15,4,12,PBKS,Chidambaram,25 April 2015
+20,Karn Sharma,3,12,2,11,4,9,DC,Shaheed Veer Narayan Singh International Cricket Stadium,09 May 2015
+21,Stuart Binny,2,8,1,8,4,12,MI,Narendra Modi Stadium,14 April 2015
+22,Piyush Chawla,4,16,1,8,4,24,SRH,Eden Gardens,04 May 2015
+23,Jayant Yadav,2,8,1,7,4,12,CSK,Shaheed Veer Narayan Singh International Cricket Stadium,12 May 2015
+24,Suresh Raina,3,12,0,8,4,0,KKR,Chidambaram,28 April 2015
+25,Zaheer Khan,4,17,2,13,4.25,12,PBKS,Arun Jaitley Stadium,01 May 2015
+26,Brad Hogg,4,17,2,10,4.25,12,SRH,Eden Gardens,04 May 2015
+27,Lasith Malinga,4,17,2,12,4.25,12,SRH,Rajiv Gandhi Intl. Cricket Stadium,17 May 2015
+28,Ravichandran Ashwin,4,17,2,15,4.25,12,MI,Chidambaram,08 May 2015
+29,Sunil Narine,4,17,1,11,4.25,24,PBKS,Maharashtra Cricket Association's International Stadium,18 April 2015
+30,Iqbal Abdulla,4,17,1,12,4.25,24,DC,Arun Jaitley Stadium,26 April 2015
+31,Vinay Kumar,3,13,1,11,4.33,18,RR,Narendra Modi Stadium,14 April 2015
+32,Dwayne Bravo,3,13,0,5,4.33,0,PBKS,Chidambaram,25 April 2015
+33,Umesh Yadav,4,18,2,11,4.5,12,DC,Arun Jaitley Stadium,20 April 2015
+34,Morne Morkel,4,18,2,15,4.5,12,MI,Eden Gardens,08 April 2015
+35,Ravi Bopara,4,18,2,12,4.5,12,RR,ACA-VDCA Stadium,16 April 2015
+36,Sandeep Sharma,2,9,1,7,4.5,12,CSK,IS Bindra Stadium,16 May 2015
+37,Brad Hogg,4,18,1,9,4.5,24,CSK,Chidambaram,28 April 2015
+38,Beuran Hendricks,2,9,1,4,4.5,12,RCB,IS Bindra Stadium,13 May 2015
+39,Shahbaz Nadeem,4,18,0,15,4.5,0,CSK,Shaheed Veer Narayan Singh International Cricket Stadium,12 May 2015
+40,Dwayne Bravo,3.4,17,2,12,4.63,11,RCB,Chidambaram,04 May 2015
+41,Jagadeesha Suchith,3,14,2,8,4.66,9,SRH,Rajiv Gandhi Intl. Cricket Stadium,17 May 2015
+42,Harshal Patel,3,14,1,7,4.66,18,DC,Arun Jaitley Stadium,26 April 2015
+43,Nathan Coulter-Nile,3,14,0,13,4.66,0,PBKS,Maharashtra Cricket Association's International Stadium,15 April 2015
+44,Sunil Narine,4,19,4,13,4.75,6,PBKS,Eden Gardens,09 May 2015
+45,Chris Morris,4,19,3,12,4.75,8,CSK,Chidambaram,10 May 2015
+46,Trent Boult,4,19,3,14,4.75,8,PBKS,IS Bindra Stadium,27 April 2015
+47,Ashish Nehra,4,19,3,13,4.75,8,RCB,Chidambaram,04 May 2015
+48,Harshal Patel,4,19,2,13,4.75,12,CSK,Chidambaram,04 May 2015
+49,Jayant Yadav,4,19,1,10,4.75,24,SRH,Shaheed Veer Narayan Singh International Cricket Stadium,09 May 2015
+50,Chris Morris,4,19,1,14,4.75,24,CSK,Narendra Modi Stadium,19 April 2015
+51,Sandeep Sharma,4,19,1,11,4.75,24,RR,Maharashtra Cricket Association's International Stadium,10 April 2015
+52,Nathan Coulter-Nile,4,20,4,13,5,6,PBKS,Arun Jaitley Stadium,01 May 2015
+53,Mitchell Starc,4,20,3,14,5,8,DC,Arun Jaitley Stadium,26 April 2015
+54,Mitchell McClenaghan,4,20,3,13,5,8,SRH,Wankhede Stadium,25 April 2015
+55,Yuzvendra Chahal,4,20,2,9,5,12,RR,Maharashtra Cricket Association's International Stadium,20 May 2015
+56,Harbhajan Singh,4,20,2,9,5,12,PBKS,Wankhede Stadium,12 April 2015
+57,Moises Henriques,4,20,2,12,5,12,CSK,Rajiv Gandhi Intl. Cricket Stadium,02 May 2015
+58,Andre Russell,4,20,2,9,5,12,CSK,Eden Gardens,30 April 2015
+59,Harshal Patel,3,15,2,8,5,9,RR,Maharashtra Cricket Association's International Stadium,20 May 2015
+60,Sreenath Aravind,4,20,2,13,5,12,RR,Maharashtra Cricket Association's International Stadium,20 May 2015
+61,Bhuvneshwar Kumar,4,20,1,11,5,24,DC,Shaheed Veer Narayan Singh International Cricket Stadium,09 May 2015
+62,Dhawal Kulkarni,3,15,1,10,5,18,MI,Narendra Modi Stadium,14 April 2015
+63,Karn Sharma,4,20,1,7,5,24,RCB,M. Chinnaswamy Stadium,13 April 2015
+64,Parveez Rasool,4,20,1,9,5,24,DC,Shaheed Veer Narayan Singh International Cricket Stadium,09 May 2015
+65,Amit Mishra,4,20,1,14,5,24,KKR,Eden Gardens,07 May 2015
+66,Andre Russell,2,10,1,8,5,12,SRH,Eden Gardens,04 May 2015
+67,Amit Mishra,2,10,1,5,5,12,PBKS,Arun Jaitley Stadium,01 May 2015
+68,Deepak Hooda,4,20,0,8,5,0,DC,Arun Jaitley Stadium,12 April 2015
+69,Pravin Tambe,3,15,0,7,5,0,PBKS,Maharashtra Cricket Association's International Stadium,10 April 2015
+70,Pravin Tambe,4,21,2,12,5.25,12,SRH,ACA-VDCA Stadium,16 April 2015
+71,Ishwar Pandey,4,21,1,14,5.25,24,RCB,M. Chinnaswamy Stadium,22 April 2015
+72,Jagadeesha Suchith,4,21,1,10,5.25,24,CSK,Chidambaram,08 May 2015
+73,Amit Mishra,4,21,1,10,5.25,24,CSK,Chidambaram,09 April 2015
+74,Bhuvneshwar Kumar,4,21,1,9,5.25,24,DC,ACA-VDCA Stadium,18 April 2015
+75,Piyush Chawla,4,21,1,13,5.25,24,CSK,Eden Gardens,30 April 2015
+76,Chris Morris,4,21,0,14,5.25,0,PBKS,Maharashtra Cricket Association's International Stadium,10 April 2015
+77,Bhuvneshwar Kumar,3,16,0,10,5.33,0,MI,Rajiv Gandhi Intl. Cricket Stadium,17 May 2015
+78,Murali Vijay,3,16,0,3,5.33,0,SRH,IS Bindra Stadium,27 April 2015
+79,David Wiese,3.2,18,2,8,5.4,10,DC,Arun Jaitley Stadium,26 April 2015
+80,Mitchell Starc,4,22,3,13,5.5,8,RR,Narendra Modi Stadium,24 April 2015
+81,Imran Tahir,4,22,3,13,5.5,8,MI,Arun Jaitley Stadium,23 April 2015
+82,Ravindra Jadeja,4,22,3,9,5.5,8,PBKS,Chidambaram,25 April 2015
+83,Axar Patel,2,11,2,2,5.5,6,RCB,IS Bindra Stadium,13 May 2015
+84,Shakib Al Hasan,4,22,2,12,5.5,12,MI,Wankhede Stadium,14 May 2015
+85,James Faulkner,4,22,2,10,5.5,12,DC,Brabourne Stadium,03 May 2015
+86,Ravichandran Ashwin,4,22,1,8,5.5,24,SRH,Chidambaram,11 April 2015
+87,Karn Sharma,4,22,1,6,5.5,24,PBKS,IS Bindra Stadium,27 April 2015
+88,Mohit Sharma,4,22,1,14,5.5,24,KKR,Eden Gardens,30 April 2015
+89,Mitchell Starc,4,22,1,13,5.5,24,RR,Maharashtra Cricket Association's International Stadium,20 May 2015
+90,Mohit Sharma,4,22,1,9,5.5,24,RCB,JSCA Stadium,22 May 2015
+91,Ravindra Jadeja,2,11,0,5,5.5,0,RCB,Chidambaram,04 May 2015
+92,Yusuf Pathan,2,11,0,4,5.5,0,CSK,Eden Gardens,30 April 2015
+93,Deepak Hooda,2,11,0,6,5.5,0,SRH,ACA-VDCA Stadium,16 April 2015
+94,JP Duminy,3,17,4,6,5.66,4.5,SRH,ACA-VDCA Stadium,18 April 2015
+95,Gurkeerat Mann Singh,3,17,2,8,5.66,9,KKR,Eden Gardens,09 May 2015
+96,Ashish Nehra,3,17,1,12,5.66,18,PBKS,IS Bindra Stadium,16 May 2015
+97,Vinay Kumar,3,17,0,9,5.66,0,PBKS,IS Bindra Stadium,03 May 2015
+98,Moises Henriques,3,17,0,8,5.66,0,MI,Rajiv Gandhi Intl. Cricket Stadium,17 May 2015
+99,Chris Morris,4,23,4,10,5.75,6,KKR,Brabourne Stadium,16 May 2015
+100,Lasith Malinga,4,23,4,13,5.75,6,SRH,Wankhede Stadium,25 April 2015
+101,Lasith Malinga,4,23,3,8,5.75,8,CSK,Wankhede Stadium,19 May 2015
+102,Ashish Nehra,4,23,3,13,5.75,8,MI,Wankhede Stadium,17 April 2015
+103,Anureet Singh,4,23,3,12,5.75,8,RR,Maharashtra Cricket Association's International Stadium,10 April 2015
+104,Mitchell Johnson,4,23,2,17,5.75,12,MI,Wankhede Stadium,12 April 2015
+105,Bhuvneshwar Kumar,4,23,2,11,5.75,12,PBKS,IS Bindra Stadium,27 April 2015
+106,Harshal Patel,4,23,2,7,5.75,12,RR,Narendra Modi Stadium,24 April 2015
+107,Pawan Negi,4,23,1,7,5.75,24,KKR,Eden Gardens,30 April 2015
+108,Bipul Sharma,4,23,1,8,5.75,24,KKR,Eden Gardens,04 May 2015
+109,Lasith Malinga,4,23,1,11,5.75,24,DC,Arun Jaitley Stadium,23 April 2015
+110,Mitchell Starc,4,24,3,13,6,8,CSK,Chidambaram,04 May 2015
+111,Varun Aaron,4,24,2,13,6,12,DC,Arun Jaitley Stadium,26 April 2015
+112,Harshal Patel,2,12,2,4,6,6,PBKS,IS Bindra Stadium,13 May 2015
+113,Domnic Joseph,3,18,2,12,6,9,KKR,Arun Jaitley Stadium,20 April 2015
+114,Ravindra Jadeja,3,18,1,6,6,18,PBKS,IS Bindra Stadium,16 May 2015
+115,Pravin Tambe,3,18,1,8,6,18,DC,Arun Jaitley Stadium,12 April 2015
+116,Harbhajan Singh,3,18,1,6,6,18,SRH,Rajiv Gandhi Intl. Cricket Stadium,17 May 2015
+117,Domnic Joseph,3,18,1,9,6,18,CSK,Chidambaram,09 April 2015
+118,Rishi Dhawan,2,12,1,7,6,12,CSK,IS Bindra Stadium,16 May 2015
+119,Andre Russell,4,24,1,13,6,24,DC,Eden Gardens,07 May 2015
+120,Mitchell Starc,4,24,1,12,6,24,CSK,M. Chinnaswamy Stadium,22 April 2015
+121,Vinay Kumar,3.3,21,0,10,6,0,KKR,Eden Gardens,08 April 2015
+122,Corey Anderson,2,12,0,5,6,0,RR,Narendra Modi Stadium,14 April 2015
+123,Stuart Binny,2,12,0,4,6,0,SRH,ACA-VDCA Stadium,16 April 2015
+124,Ishwar Pandey,2,12,0,6,6,0,RR,Narendra Modi Stadium,19 April 2015
+125,Ravichandran Ashwin,4,24,0,13,6,0,DC,Shaheed Veer Narayan Singh International Cricket Stadium,12 May 2015
+126,Ravindra Jadeja,2.4,16,0,6,6,0,DC,Shaheed Veer Narayan Singh International Cricket Stadium,12 May 2015
+127,Sandeep Sharma,4,25,4,15,6.25,6,KKR,Maharashtra Cricket Association's International Stadium,18 April 2015
+128,Ashish Nehra,4,25,3,12,6.25,8,DC,Chidambaram,09 April 2015
+129,Dwayne Bravo,4,25,3,11,6.25,8,SRH,Rajiv Gandhi Intl. Cricket Stadium,02 May 2015
+130,Mitchell McClenaghan,4,25,3,15,6.25,8,CSK,Eden Gardens,24 May 2015
+131,Mohit Sharma,4,25,3,11,6.25,8,RR,Chidambaram,10 May 2015
+132,Axar Patel,4,25,2,8,6.25,12,SRH,IS Bindra Stadium,27 April 2015
+133,Pawan Negi,4,25,2,10,6.25,12,PBKS,IS Bindra Stadium,16 May 2015
+134,Dwayne Bravo,4,25,2,5,6.25,12,SRH,Chidambaram,11 April 2015
+135,Lasith Malinga,4,25,2,10,6.25,12,CSK,Eden Gardens,24 May 2015
+136,Nathan Coulter-Nile,4,25,2,12,6.25,12,SRH,Shaheed Veer Narayan Singh International Cricket Stadium,09 May 2015
+137,Sandeep Sharma,4,25,1,10,6.25,24,RR,Narendra Modi Stadium,21 April 2015
+138,Jagadeesha Suchith,4,25,1,9,6.25,24,SRH,Wankhede Stadium,25 April 2015
+139,Amit Mishra,4,25,1,7,6.25,24,MI,Wankhede Stadium,05 May 2015
+140,Shane Watson,4,25,1,14,6.25,24,DC,Brabourne Stadium,03 May 2015
+141,Ravichandran Ashwin,4,25,1,8,6.25,24,DC,Chidambaram,09 April 2015
+142,Sreenath Aravind,4,25,1,9,6.25,24,CSK,JSCA Stadium,22 May 2015
+143,Bhuvneshwar Kumar,4,25,0,9,6.25,0,RR,ACA-VDCA Stadium,16 April 2015
+144,Mitchell McClenaghan,4,25,0,7,6.25,0,PBKS,IS Bindra Stadium,03 May 2015
+145,Anureet Singh,4,25,0,6,6.25,0,RCB,M. Chinnaswamy Stadium,06 May 2015
+146,Pat Cummins,4,25,0,12,6.25,0,CSK,Chidambaram,28 April 2015
+147,Karn Sharma,3,19,1,7,6.33,18,RR,ACA-VDCA Stadium,16 April 2015
+148,Angelo Mathews,3,19,0,6,6.33,0,PBKS,Arun Jaitley Stadium,01 May 2015
+149,James Faulkner,4,26,3,11,6.5,8,PBKS,Maharashtra Cricket Association's International Stadium,10 April 2015
+150,Bhuvneshwar Kumar,4,26,3,13,6.5,8,MI,Wankhede Stadium,25 April 2015
